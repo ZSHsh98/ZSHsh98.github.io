@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the South China University of Technology (SCUT, 华南理工大学), School of Software Engineering (硕博连读), advised by Prof. Mingkui Tan (谭明奎). I hold a Bachelor’s degree in Mathematics from the School of Mathematics (数学学院), South China University of Technology (华南理工大学). My research focuses on trusted data detection, adversarial defense, and model compression, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as Neural Networks and TCSVT.
+I am a Ph.D. candidate at the South China University of Technology (SCUT, 华南理工大学), School of Software Engineering (硕博连读), advised by Prof. Mingkui Tan (谭明奎). I hold a Bachelor’s degree in Mathematics from the School of Mathematics (数学学院), South China University of Technology (华南理工大学). My research focuses on **trusted data detection**, **adversarial defense**, and **model compression**, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as Neural Networks and TCSVT.
 
 
 # 🔥 News
