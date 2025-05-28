@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the South China University of Technology (SCUT, 华南理工大学), School of Software Engineering (硕博连读), advised by Prof. Mingkui Tan (谭明奎). I hold a Bachelor’s degree in Mathematics from the School of Mathematics (数学学院), South China University of Technology (华南理工大学). My research focuses on trusted data detection, adversarial defense, and model compression, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as Neural Networks and TCSVT <a href='https://scholar.google.com/citations?user=oNhLYoEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a Ph.D. candidate at the South China University of Technology (SCUT, 华南理工大学), School of Software Engineering (硕博连读), advised by Prof. Mingkui Tan (谭明奎). I hold a Bachelor’s degree in Mathematics from the School of Mathematics (数学学院), South China University of Technology (华南理工大学). My research focuses on trusted data detection, adversarial defense, and model compression, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as Neural Networks and TCSVT.
 
 
 # 🔥 News
@@ -25,8 +25,10 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT, 华南
 
 # 📝 Publications 
 
-
-- [Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score](https://arxiv.org/abs/2305.16035), Shuhai Zhang, Feng Liu, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui Tan, **ICML 2023**
+- [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](). **Shuhai Zhang**, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
+- [Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy](https://arxiv.org/abs/2402.16041). **Shuhai Zhang**, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan. **ICLR 2024**
+- [Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score](https://arxiv.org/abs/2305.16035). **Shuhai Zhang**, Feng Liu, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui Tan. **ICML 2023**
+ 
 
 
 # 📖 Educations
