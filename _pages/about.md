@@ -26,9 +26,9 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 - *2025.05*: &nbsp;🎉🎉 One papers is accepted by IJCAI 2025.
 - *2025.01*: &nbsp;🎉🎉 One papers is accepted by ICLR 2025.
 
-# 📝 Publications *<span style="font-size: 0.8em; color: gray;"> indicates co-first author</span>
+# 📝 Publications <span style="font-size: 0.5em; color: gray;">* indicates co-first author</span>
 - [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](). <strong>Shuhai Zhang</strong>, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
-- [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465). Yaofo Chen<, Zeng You, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. **ICML 2025**
+- [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465). Yaofo Chen, Zeng You, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. **ICML 2025**
 - [Deep Electromagnetic Structure Design Under Limited Evaluation Budgets](). Shijian Zheng, Fangxiao Jin, **Shuhai Zhang**, Quan Xue, Mingkui Tan. **ICML 2025**
 - [Dynamic Ensemble Reasoning for LLM Experts](https://arxiv.org/abs/2412.07448). Jinwu Hu, Yufeng Wang, <strong>Shuhai Zhang<sup>*</sup></strong>, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao, Mingkui Tan. **IJCAI 2025**
 - [Deep Kernel Relative Test for Machine-generated Text Detection](https://openreview.net/forum?id=z9j7wctoGV). Yiliao Song, Zhenqiao Yuan, **Shuhai Zhang**, Zhen Fang, Jun Yu, Feng Liu. **ICLR 2025**
