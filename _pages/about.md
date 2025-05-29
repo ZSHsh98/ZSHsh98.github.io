@@ -26,15 +26,15 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 
 # 📝 Publications 
 
-- [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](). <strong>Shuhai Zhang<sup>*</sup></strong>, Zeng You<sup>*</sup>, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
+- [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](). <strong>Shuhai Zhang</strong>, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
 - [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465). Yaofo Chen<sup>*</sup>, Zeng You<sup>*</sup>, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. **ICML 2025**
 - [Deep Electromagnetic Structure Design Under Limited Evaluation Budgets](). Shijian Zheng, Fangxiao Jin, **Shuhai Zhang**, Quan Xue, Mingkui Tan. **ICML 2025**
 - [Dynamic Ensemble Reasoning for LLM Experts](https://arxiv.org/abs/2412.07448). Jinwu Hu<sup>*</sup>, Yufeng Wang<sup>*</sup>, <strong>Shuhai Zhang<sup>*</sup></strong>, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao, Mingkui Tan. **IJCAI 2025**
 - [Deep Kernel Relative Test for Machine-generated Text Detection](https://openreview.net/forum?id=z9j7wctoGV). Yiliao Song, Zhenqiao Yuan, **Shuhai Zhang**, Zhen Fang, Jun Yu, Feng Liu. **ICLR 2025**
-- [Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy](https://arxiv.org/abs/2402.16041). <strong>Shuhai Zhang<sup>*</sup></strong>, Yiliao Song<sup>*</sup>, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan. **ICLR 2024**
+- [Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy](https://arxiv.org/abs/2402.16041). <strong>Shuhai Zhang, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan. **ICLR 2024**
 - [Cross-Device Collaborative Test-Time Adaptation](https://openreview.net/forum?id=YyMiO0DWmI) Guohao Chen, Shuaicheng Niu, Deyu Chen, **Shuhai Zhang**, Changsheng Li, Yuanqing Li, Mingkui Tan. **NeurIPS 2024**
 - [HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models]() Yifan Yang, Dong Liu, **Shuhai Zhang**, Zeshuai Deng, Zixiong Huang, Mingkui Tan. **CVPR 2024**
-- [Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score](https://arxiv.org/abs/2305.16035). <strong>Shuhai Zhang<sup>*</sup></strong>, Feng Liu<sup>*</sup>, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui Tan. **ICML 2023**
+- [Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score](https://arxiv.org/abs/2305.16035). <strong>Shuhai Zhang</strong>, Feng Liu<sup>*</sup>, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui Tan. **ICML 2023**
 - [Cross-ray neural radiance fields for novel-view synthesis from unconstrained image collections](https://arxiv.org/abs/2307.08093) Yifan Yang, **Shuhai Zhang**, Zixiong Huang, Yubing Zhang, Mingkui Tan. **ICCV 2023 Oral**
 - [Learning to Generate Diverse Data From a Temporal Perspective for Data-Free Quantization](https://ieeexplore.ieee.org/abstract/document/10528335) Hui Luo, **Shuhai Zhang**, Zhuangwei Zhuang, Jiajie Mai, Mingkui Tan, Jianlin Zhang. **TCSVT 2024**
 - [Generative data free model quantization with knowledge matching for classification](https://ieeexplore.ieee.org/abstract/document/10132082) Shoukai Xu<sup>*</sup>, <strong>Shuhai Zhang<sup>*</sup></strong>, Jing Liu, Bohan Zhuang, Yaowei Wang, Mingkui Tan. **TCSVT 2023**
