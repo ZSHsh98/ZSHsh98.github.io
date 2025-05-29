@@ -40,7 +40,7 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 - [Learning defense transformations for counterattacking adversarial examples](https://www.sciencedirect.com/science/article/abs/pii/S0893608023001259) Jincheng Li*, **Shuhai Zhang***, Jiezhang Cao*, Mingkui Tan. **Neural Networks 2023**
 
 # 📖 Educations
-- *2020.06 - now*, Phd, South China University of Technology, Guangzhou.
+- *2020.06 - now*, PhD, South China University of Technology, Guangzhou.
 - *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou.
 
 # 💬 Invited Talks
