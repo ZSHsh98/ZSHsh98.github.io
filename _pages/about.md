@@ -20,8 +20,8 @@ redirect_from:
 I am a Ph.D. candidate at the South China University of Technology (SCUT), School of Software Engineering, advised by [Prof. Mingkui Tan](https://tanmingkui.github.io/) and co-supervised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Dr. Bo Han](https://bhanml.github.io/). I hold a Bachelor’s degree in Mathematics from the School of Mathematics, South China University of Technology. My research focuses on **AI-generated data detection**, **adversarial defense**, and **model compression**, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as Neural Networks and TCSVT.
 
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2025.
+<!-- # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2025.-->
 
 # 📝 Publications 
 
