@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Shuhai Zhang"
-description              : "Focusing on trusted data detection, adversarial defense, and model compression."
-repository               : "ZSHsh98/zhangshuhai.github.io"
+description              : "Focusing on AI-generated data detection, adversarial defense, and model compression."
+repository               : "ZSHsh98/ZSHsh98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
