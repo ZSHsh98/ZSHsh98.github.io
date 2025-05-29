@@ -26,7 +26,7 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 - *2025.05*: &nbsp;🎉🎉 One papers is accepted by IJCAI 2025.
 - *2025.01*: &nbsp;🎉🎉 One papers is accepted by ICLR 2025.
 
-# 📝 Publications <span style="font-size: 0.5em; color: gray;">* indicates co-first author</span>
+# 📝 Publications <span style="font-size: 0.6em; color: gray;">* indicates co-first author</span>
 - [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](). <strong>Shuhai Zhang</strong>, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
 - [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465). Yaofo Chen, Zeng You, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. **ICML 2025**
 - [Deep Electromagnetic Structure Design Under Limited Evaluation Budgets](). Shijian Zheng, Fangxiao Jin, **Shuhai Zhang**, Quan Xue, Mingkui Tan. **ICML 2025**
