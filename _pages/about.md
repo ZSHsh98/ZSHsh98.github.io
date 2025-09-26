@@ -22,16 +22,18 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025 Spotlight.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2025.
 - *2025.05*: &nbsp;🎉🎉 One papers is accepted by IJCAI 2025.
 - *2025.01*: &nbsp;🎉🎉 One papers is accepted by ICLR 2025.
 
 # 📝 Publications <span style="font-size: 0.6em; color: gray;">* indicates co-first author</span>
-- [Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment](). Kai Zhou, <strong>Shuhai Zhang<sup>*</sup></strong>, Zeng You, Jinwu Hu, Mingkui Tan. **TIP 2025**
+- [Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection](https://github.com/ZSHsh98/NSG-VD/blob/main/video_detection_NeurIPS_2025%20(14).pdf). <strong>Shuhai Zhang</strong>, ZiHao Lian, Jiahao Yang, Daiyuan Li, Guoxuan Pang, Feng Liu, Bo Han, Shutao Li, Mingkui Tan. **NeurIPS 2025 Spotlight**
+- [Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment](https://arxiv.org/abs/2507.00566). Kai Zhou, <strong>Shuhai Zhang<sup>*</sup></strong>, Zeng You, Jinwu Hu, Mingkui Tan. **TIP 2025**
 - [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](https://export.arxiv.org/abs/2505.22107). <strong>Shuhai Zhang</strong>, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
 - [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465). Yaofo Chen, Zeng You, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan. **ICML 2025**
-- [Deep Electromagnetic Structure Design Under Limited Evaluation Budgets](). Shijian Zheng, Fangxiao Jin, **Shuhai Zhang**, Quan Xue, Mingkui Tan. **ICML 2025**
+- [Deep Electromagnetic Structure Design Under Limited Evaluation Budgets](https://arxiv.org/abs/2506.19384). Shijian Zheng, Fangxiao Jin, **Shuhai Zhang**, Quan Xue, Mingkui Tan. **ICML 2025**
 - [Dynamic Ensemble Reasoning for LLM Experts](https://arxiv.org/abs/2412.07448). Jinwu Hu, Yufeng Wang, <strong>Shuhai Zhang<sup>*</sup></strong>, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao, Mingkui Tan. **IJCAI 2025**
 - [Deep Kernel Relative Test for Machine-generated Text Detection](https://openreview.net/forum?id=z9j7wctoGV). Yiliao Song, Zhenqiao Yuan, **Shuhai Zhang**, Zhen Fang, Jun Yu, Feng Liu. **ICLR 2025**
 - [Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy](https://arxiv.org/abs/2402.16041). **Shuhai Zhang**, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan. **ICLR 2024**
