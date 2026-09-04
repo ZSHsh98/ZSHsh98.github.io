@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuhai Zhang"
-description              : "Focusing on AI-generated data detection, adversarial defense, and model compression."
+description              : "Focusing on AI-generated content detection, adversarial defense, and efficient large-scale model learning and acceleration."
 repository               : "ZSHsh98/ZSHsh98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: "Shuhai Zhang"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Focusing on AI-generated content detection, adversarial defense, and efficient large-scale model learning and acceleration."
+  bio: 
   location: "Hong Kong, China"
   employer: "Hong Kong Baptist University (HKBU)"
   pubmed           : 
