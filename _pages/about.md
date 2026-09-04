@@ -23,7 +23,8 @@ I am currently a Postdoctoral Research Fellow at [Hong Kong Baptist University (
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2026.
+- *2026.09*: 🎉 🎉 One survey paper is accepted by MIR 2026.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025 Spotlight.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
@@ -32,6 +33,7 @@ I am currently a Postdoctoral Research Fellow at [Hong Kong Baptist University (
 - *2025.01*: &nbsp;🎉🎉 One papers is accepted by ICLR 2025.
 
 # 📝 Publications <span style="font-size: 0.6em; color: gray;">* indicates co-first author</span>
+- [A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference](https://arxiv.org/pdf/2609.01679). Shuaicheng Niu, Guohao Chen, Yaofo Chen, Zhiquan Wen, Jinwu Hu, Zeshuai Deng, Deyu Chen, <strong>Shuhai Zhang</strong>, Renjie Chen, Zihao Lian, Shoukai Xu, Gang Dai, Yunbei Zhang, Wei Luo, Yifan Zhang, Mingkui Tan, Cheng Deng. **MIR 2026**
 - [Adversarial Purification by Consistency-aware Latent Space Optimization on Data Manifolds](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=oNhLYoEAAAAJ&cstart=20&pagesize=80&citation_for_view=oNhLYoEAAAAJ:KlAtU1dfN6UC). <strong>Shuhai Zhang</strong>, Jiahao Yang, Hui Luo, Jincheng Chen, Lei Wang, Feng Liu, Bo Han, Mingkui Tan. **TPAMI 2026**
 - [Zero-source LLM Hallucination Detection with Human-like Criteria Probing](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=oNhLYoEAAAAJ&cstart=20&pagesize=80&citation_for_view=oNhLYoEAAAAJ:kNdYIx-mwKoC). Jiahao Yang, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Kang, Feng Liu, Qian Chen, Mingkui Tan. **ICML 2026**
 - [Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection](https://github.com/ZSHsh98/NSG-VD/blob/main/video_detection_NeurIPS_2025%20(14).pdf). <strong>Shuhai Zhang</strong>, ZiHao Lian, Jiahao Yang, Daiyuan Li, Guoxuan Pang, Feng Liu, Bo Han, Shutao Li, Mingkui Tan. **NeurIPS 2025 Spotlight**
