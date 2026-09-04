@@ -18,10 +18,13 @@ redirect_from:
 # About me
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the South China University of Technology (SCUT), School of Software Engineering, advised by [Prof. Mingkui Tan](https://tanmingkui.github.io/) and co-supervised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Dr. Bo Han](https://bhanml.github.io/). I hold a Bachelor’s degree in Mathematics from the School of Mathematics, South China University of Technology. My research focuses on **AI-generated data detection**, **adversarial defense**, and **model compression**, with publications in top-tier venues including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, and journals such as TIP, Neural Networks and TCSVT. I also actively serve as a reviewer for leading conferences (NeurIPS, ICML, ICLR, ACMMM) and journals (TNNLS, Neural Networks).
+I am currently a Postdoctoral Research Fellow at [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/). I received my Ph.D. in Software Engineering from the [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/), advised by [Prof. Mingkui Tan](https://tanmingkui.github.io/) and co-supervised by [Dr. Feng Liu](https://fengliu90.github.io/) and [Prof. Bo Han](https://bhanml.github.io/). I hold a Bachelor’s degree in Mathematics from the School of Mathematics, South China University of Technology. My research focuses on **AI-generated content detection**, **adversarial defense**, and **efficient large-scale model learning and acceleration**, with publications in leading conferences and journals including NeurIPS, ICML, ICLR, CVPR, ICCV, IJCAI, TPAMI, TIP, Neural Networks and TCSVT. I also actively serve as a reviewer for leading conferences (NeurIPS, ICML, ICLR, ACMMM) and journals (TPAMI, TNNLS, Neural Networks).
+
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2026.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025 Spotlight.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2025.
@@ -29,6 +32,8 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 - *2025.01*: &nbsp;🎉🎉 One papers is accepted by ICLR 2025.
 
 # 📝 Publications <span style="font-size: 0.6em; color: gray;">* indicates co-first author</span>
+- [Adversarial Purification by Consistency-aware Latent Space Optimization on Data Manifolds](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=oNhLYoEAAAAJ&cstart=20&pagesize=80&citation_for_view=oNhLYoEAAAAJ:KlAtU1dfN6UC). <strong>Shuhai Zhang</strong>, Jiahao Yang, Hui Luo, Jincheng Chen, Lei Wang, Feng Liu, Bo Han, Mingkui Tan. **TPAMI 2026**
+- [Zero-source LLM Hallucination Detection with Human-like Criteria Probing](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=oNhLYoEAAAAJ&cstart=20&pagesize=80&citation_for_view=oNhLYoEAAAAJ:kNdYIx-mwKoC). Jiahao Yang, <strong>Shuhai Zhang<sup>*</sup></strong>, Haokun Kang, Feng Liu, Qian Chen, Mingkui Tan. **ICML 2026**
 - [Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection](https://github.com/ZSHsh98/NSG-VD/blob/main/video_detection_NeurIPS_2025%20(14).pdf). <strong>Shuhai Zhang</strong>, ZiHao Lian, Jiahao Yang, Daiyuan Li, Guoxuan Pang, Feng Liu, Bo Han, Shutao Li, Mingkui Tan. **NeurIPS 2025 Spotlight**
 - [Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment](https://arxiv.org/abs/2507.00566). Kai Zhou, <strong>Shuhai Zhang<sup>*</sup></strong>, Zeng You, Jinwu Hu, Mingkui Tan. **TIP 2025**
 - [Curse of High Dimensionality Issue in Transformer for Long-context Modeling](https://export.arxiv.org/abs/2505.22107). <strong>Shuhai Zhang</strong>, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li,  Mingkui Tan. **ICML 2025**
@@ -45,9 +50,12 @@ I am a Ph.D. candidate at the South China University of Technology (SCUT), Schoo
 - [Generative data free model quantization with knowledge matching for classification](https://ieeexplore.ieee.org/abstract/document/10132082) Shoukai Xu, <strong>Shuhai Zhang<sup>*</sup></strong>, Jing Liu, Bohan Zhuang, Yaowei Wang, Mingkui Tan. **TCSVT 2023**
 - [Learning defense transformations for counterattacking adversarial examples](https://www.sciencedirect.com/science/article/abs/pii/S0893608023001259) Jincheng Li, <strong>Shuhai Zhang<sup>*</sup></strong>, Jiezhang Cao, Mingkui Tan. **Neural Networks 2023**
 
-# 📖 Educations
-- *2020.06 - now*, PhD, South China University of Technology, Guangzhou.
-- *2016.09 - 2020.06*, Undergraduate, South China University of Technology, Guangzhou.
+# 💼 Experience
+- *2026 - now*, Postdoctoral Research Fellow, Hong Kong Baptist University, Hong Kong.
+
+# 📖 Education
+- *2020.06 - 2026*, Ph.D. in Software Engineering, South China University of Technology, Guangzhou.
+- *2016.09 - 2020.06*, B.Sc. in Mathematics, South China University of Technology, Guangzhou.
 
 # 💬 Invited Talks
 - *2023.11*, A Special Topic on Trustworthy Machine Learning for Incomplete Data  \| [\[video\]](https://www.bilibili.com/video/BV1ag4y1Q7ye/)
